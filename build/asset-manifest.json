@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/garpRojas/reactPractice/static/css/main.42dbd742.chunk.css",
+    "main.js": "/garpRojas/reactPractice/static/js/main.2ee306b7.chunk.js",
+    "main.js.map": "/garpRojas/reactPractice/static/js/main.2ee306b7.chunk.js.map",
+    "runtime-main.js": "/garpRojas/reactPractice/static/js/runtime-main.3266a63e.js",
+    "runtime-main.js.map": "/garpRojas/reactPractice/static/js/runtime-main.3266a63e.js.map",
+    "static/js/2.72cbcc59.chunk.js": "/garpRojas/reactPractice/static/js/2.72cbcc59.chunk.js",
+    "static/js/2.72cbcc59.chunk.js.map": "/garpRojas/reactPractice/static/js/2.72cbcc59.chunk.js.map",
+    "static/js/3.e09558a6.chunk.js": "/garpRojas/reactPractice/static/js/3.e09558a6.chunk.js",
+    "static/js/3.e09558a6.chunk.js.map": "/garpRojas/reactPractice/static/js/3.e09558a6.chunk.js.map",
+    "index.html": "/garpRojas/reactPractice/index.html",
+    "static/css/main.42dbd742.chunk.css.map": "/garpRojas/reactPractice/static/css/main.42dbd742.chunk.css.map",
+    "static/js/2.72cbcc59.chunk.js.LICENSE.txt": "/garpRojas/reactPractice/static/js/2.72cbcc59.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3266a63e.js",
+    "static/js/2.72cbcc59.chunk.js",
+    "static/css/main.42dbd742.chunk.css",
+    "static/js/main.2ee306b7.chunk.js"
+  ]
+}
